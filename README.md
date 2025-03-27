@@ -1,4 +1,4 @@
-# Video Question Answering: Datasets, Algorithms and Challenges
+# Video Question Answering 
 
 ![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
